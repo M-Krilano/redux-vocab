@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "term": "Redux",
+    "definition": "State Management system. At it's simplest form it's an event emitter"
+  },
+  {
+    "id": 1,
+    "term": "State",
+    "definition": "Contains the application's current data."
+  },
+  {
+    "id": 2,
+    "term": "Reducer",
+    "definition": "Function that produces some data. Always called with current state and an action"
+  },
+  {
+    "id": 3,
+    "term": "Store",
+    "definition": "Holds state and reducer. Holds the application's data"
+  },
+  {
+    "id": 4,
+    "term": "Action",
+    "definition": "A plain javascript object that tells the reducer how to change the date. Must have  a type property."
+  },
+  {
+    "id": 5,
+    "term": "Provider",
+    "definition": "Wrapper around the whole application that holds the state for the entire application"
+  }
+]
