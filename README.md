@@ -9,3 +9,5 @@ Simple React Native App that shows an Animated List that displays some key terms
 - MapStateToProps
 - Connect
 
+
+<a href="https://imgflip.com/gif/36s3qs"><img src="https://i.imgflip.com/36s3qs.gif" title="made at imgflip.com"/></a>
